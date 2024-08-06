@@ -1,0 +1,6 @@
+jupyter
+numpy
+pandas
+matplotlib
+scipy
+# その他の必要なパッケージをここに追加
